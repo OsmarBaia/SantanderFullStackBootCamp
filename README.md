@@ -11,7 +11,7 @@
 
 <h2>📐Projetos</h2>
 <ul>
-<li>Clone Instagram</li>
+<li>Clone Instagram landpage</li>
 <li>Front-End E-Commerce</li>
 <li>Banco Digital</li>
 <li>Padrões de projetos</li>
