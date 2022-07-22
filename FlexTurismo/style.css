@@ -33,20 +33,20 @@ div img {
 
 /* Barra Superior */
 header {
-    background-color: #122a57;
-    height: 100px;
-    display: flex;
-    align-items: center;
     color: #fff;
+    background-color: #122a57;
+    width: 100%;
+    height: 100px;
+    min-width: 320px;
 }
 
 header .list-items {
-    display: flex;
-    max-width: 260px;
     width: 100%;
-    justify-content: space-between;
-    align-items: center;
+    max-width: 260px;
 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .list-items li a {
@@ -54,6 +54,9 @@ header .list-items {
 }
 
 header .menu {
+    padding: 25px;
+    display: flex;
+    align-items: center;
     justify-content: space-between;
 }
 
@@ -67,6 +70,8 @@ header .menu {
 
 .apresentacao .texto-apresentacao {
     min-height: 200px;
+    display: flex;
+    flex-direction: column;
 }
 
 .texto-apresentacao h1 {
