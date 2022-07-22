@@ -27,7 +27,8 @@ div img {
     display: flex;
     max-width: 992px;
     margin: auto;
-    width: 100%;
+    min-width: 320px;
+    padding: 10px 15px;
 }
 
 /* Barra Superior */

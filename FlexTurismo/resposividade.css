@@ -1,0 +1,62 @@
+@media(max-width: 992px) {
+
+    header,
+    body,
+    footer {
+        min-width: 320px;
+    }
+
+    .flex-container {
+        flex-direction: column;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .apresentacao {
+        flex-direction: column-reverse;
+        justify-content: space-around;
+    }
+
+    .apresentacao .texto-apresentacao {
+        width: 100%;
+        text-align: center;
+    }
+
+    #quem-somos {
+        flex-direction: column-reverse;
+        min-width: 320px;
+    }
+
+    #quem-somos img {
+        min-width: 320px;
+        margin: auto;
+    }
+
+    #quem-somos h2::before {
+        content: "";
+    }
+
+    .list-servicos {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .list-servicos img {
+        width: 50%;
+        margin: auto;
+    }
+
+    .list-planos {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .list-planos .item-plano {
+        max-width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+}
