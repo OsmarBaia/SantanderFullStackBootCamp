@@ -18,4 +18,4 @@
 
 ## 📱 Mobile
 
-<img src="./img/Instagram_Portrait.png" width=1000>
+<img src="./img/Instagram-Portrait.png" width=1000>
