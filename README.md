@@ -11,8 +11,8 @@
 
 <h2>📐Projetos</h2>
 <ul>
-<li>LadnPage Turismo</li>
-<li>LandPage Instagram</li>
+<li><a href="./FlexTurismo">Landpage Turismo</a></li>
+<li><a href="./Instagram">Instagram Login Page</a></li>
 <li>Front-End E-Commerce</li>
 <li>Banco Digital</li>
 <li>Padrões de projetos</li>
