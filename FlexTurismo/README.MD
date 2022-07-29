@@ -15,8 +15,8 @@ Home page de uma agencia de turismo ficticia, utilizando apenas html, css e flex
 
 ## 📱 Mobile
 
-<img src="./images/flexTurismo_portrait_1.png">
-<img src="./images/flexTurismo_portrait_2.png">
-<img src="./images/flexTurismo_portrait_3.png">
-<img src="./images/flexTurismo_portrait_4.png">
-<img src="./images/flexTurismo_portrait_5.png">
+<img align='left' src="./images/flexTurismo_portrait_1.png">
+<img align='left' src="./images/flexTurismo_portrait_3.png">
+<img align='left' src="./images/flexTurismo_portrait_4.png">
+<img align='left' src="./images/flexTurismo_portrait_5.png">
+<img align='left' src="./images/flexTurismo_portrait_2.png">
