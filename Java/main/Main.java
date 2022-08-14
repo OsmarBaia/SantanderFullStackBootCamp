@@ -1,7 +1,10 @@
 package main;
 
+import Bancos.Banco;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.print("Hello");
+        Banco b = new Banco("Dio Bank");
+        b.Init();
     }
 }
